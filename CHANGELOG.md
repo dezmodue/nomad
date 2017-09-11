@@ -1,6 +1,7 @@
 ## 0.7 (Unreleased)
 
 IMPROVEMENTS:
+ * discovery: Allow restarting unhealthy tasks with `check_restart` [GH-3105]
  * telemetry: Add support for tagged metrics for Nomad clients [GH-3147]
 
 ## 0.6.3 (September 11, 2017)
